@@ -25,7 +25,7 @@
 **From this repo (recommended)**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nanobot.git
+git clone https://github.com/PaygamovT/nanobot.git
 cd nanobot
 pip install -e .
 ```
